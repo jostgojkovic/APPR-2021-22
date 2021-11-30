@@ -1,6 +1,6 @@
 # Analiza podatkov s programom R - 2021/22
 
-zakaj ne dela?
+zakaj ne dela?-- kul dela
 Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22. 
 
 ## Tematika
