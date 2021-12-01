@@ -3,12 +3,17 @@
 
 Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22. 
 
-## Analiza izpusta agregatnih plinov po svetu
+## Analiza izpusta toplogrednih plinov v EU
 
 
-Analiziral bom izpust agregatnih plinov po svetu ter vpliv le teh na dvig temperature zemlje skozi čas. Izpust plinov bom tudi primerjal z razvitostjo posameznih držav in velikostjo le teh. Primerjal bom tudi izpust CO2 posameznika in BDP na prebivalca v evropski uniji. Podatke sem dobil na [Greenhouse gas emissions](https://ourworldindata.org/greenhouse-gas-emissions), na [Wikipediji](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area) in na [Eurostatu](https://ec.europa.eu/eurostat/web/main/data/database).
+Analiziral bom izpust toplogrednih plinov v EU. Izpust plinov bom tudi primerjal z razvitostjo posameznih držav in velikostjo le teh. Primerjal bom tudi izpust CO2 posameznika in BDP na prebivalca v. Podatke bom večinoma dobil na Eurostatu.
 
+### 1. tabela
+V prvi tabeli bi predstavil izpust plinov držav po letih. Vrednosti za posamezno državo bojo v stolpcih s tem da bi predzadnji stolpec bil izpust toplogrednih plinov celega sveta, zadnji pa spremebma temperature sveta.
 
+V drugi tabeli
+
+V zadnji tabeli bi podrobno predstavil izpust plinov (gospodinjstva, industrija, javni transport, agrikultura) 
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
