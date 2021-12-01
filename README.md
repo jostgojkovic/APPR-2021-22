@@ -1,12 +1,15 @@
 # Analiza podatkov s programom R - 2021/22
 
-zakaj ne dela?-- kul dela
+
 Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22. 
 
-## Tematika
+## Analiza izpusta agregatnih plinov po svetu
 
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+
+Analiziral bom izpust agregatnih plinov po svetu ter vpliv le teh na dvig temperature zemlje skozi čas. To bom tudi primerjal z razvitostvjo posameznih držav. 
+
 
 ## Program
 
