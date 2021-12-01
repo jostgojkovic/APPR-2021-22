@@ -6,7 +6,7 @@ Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22.
 ## Analiza izpusta agregatnih plinov po svetu
 
 
-Analiziral bom izpust agregatnih plinov po svetu ter vpliv le teh na dvig temperature zemlje skozi čas. Izpust plinov bom tudi primerjal z razvitostvjo posameznih držav in velikostjo le teh. Podatke sem dobil na [Greenhouse gas emissions](https://ourworldindata.org/greenhouse-gas-emissions), na [Wikipediji](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area) 
+Analiziral bom izpust agregatnih plinov po svetu ter vpliv le teh na dvig temperature zemlje skozi čas. Izpust plinov bom tudi primerjal z razvitostjo posameznih držav in velikostjo le teh. Primerjal bom tudi izpust CO2 posameznika in BDP na prebivalca v evropski uniji. Podatke sem dobil na [Greenhouse gas emissions](https://ourworldindata.org/greenhouse-gas-emissions), na [Wikipediji](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area) in na [Eurostatu](https://ec.europa.eu/eurostat/web/main/data/database).
 
 
 ## Program
