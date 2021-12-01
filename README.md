@@ -8,7 +8,7 @@ Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22.
 
 Analiziral bom izpust toplogrednih plinov v EU. Izpust plinov bom tudi primerjal z razvitostjo posameznih držav in velikostjo le teh. Primerjal bom tudi izpust CO2 posameznika in BDP na prebivalca v. Podatke bom večinoma dobil na Eurostatu.
 
-### 1. tabela
+#### 1. tabela
 V prvi tabeli bi predstavil izpust plinov držav po letih. Vrednosti za posamezno državo bojo v stolpcih s tem da bi predzadnji stolpec bil izpust toplogrednih plinov celega sveta, zadnji pa spremebma temperature sveta.
 
 V drugi tabeli
