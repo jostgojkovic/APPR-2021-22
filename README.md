@@ -5,10 +5,8 @@ Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22.
 
 ## Analiza izpusta agregatnih plinov po svetu
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
-Analiziral bom izpust agregatnih plinov po svetu ter vpliv le teh na dvig temperature zemlje skozi čas. To bom tudi primerjal z razvitostvjo posameznih držav. 
+Analiziral bom izpust agregatnih plinov po svetu ter vpliv le teh na dvig temperature zemlje skozi čas. Izpust plinov bom tudi primerjal z razvitostvjo posameznih držav in velikostjo le teh. Podatke sem dobil na [Greenhouse gas emissions](https://ourworldindata.org/greenhouse-gas-emissions), na [Wikipediji](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area) 
 
 
 ## Program
